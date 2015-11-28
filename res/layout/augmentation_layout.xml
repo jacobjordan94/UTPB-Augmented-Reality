@@ -57,7 +57,7 @@
                 android:layout_below="@+id/textView4"
                 android:layout_centerHorizontal="true"
                 android:layout_centerVertical="true"
-                android:onClick="launchFalconVision"
+                android:onClick="launchAug2"
                 android:layout_gravity="center|bottom"
                 android:colorButtonNormal="#2196f3"/>
 

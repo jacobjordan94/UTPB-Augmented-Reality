@@ -19,7 +19,7 @@
     <string name="compass_accuracy_low">Compass Accuracy is too low!</string>
 
     <string name="about">UTPB AR is a project that aims to bring AR (Augmented Reality) to the
-        UTPB campus.\n\nby:\nAshley Arellano\nJacobJordan\nJanet Romero</string>
+        UTPB campus.\n\nby:\nAshley Arellano\nJacob Jordan\n&amp; Janet Romero</string>
 
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
