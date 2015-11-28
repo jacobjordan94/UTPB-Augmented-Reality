@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UTPB AR</string>
+
+    <string name="title_section1">Augmentations</string>
+    <string name="title_section2">Building Locator</string>
+    <string name="title_section3">Falcon Vision</string>
+    <string name="title_section4">About</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cam_example">CamExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ar_test">ar_test</string>
+    <string name="compass_accuracy_low">Compass Accuracy is too low!</string>
+
+    <string name="about">UTPB AR is a project that aims to bring AR (Augmented Reality) to the
+        UTPB campus.\n\nby:\nAshley Arellano\nJacobJordan\nJanet Romero</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

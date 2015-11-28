@@ -1,0 +1,12 @@
+package com.example.jacob.utpbar;
+
+/**
+ * Created by jacob on 9/8/2015.
+ */
+public class WikitudeSDKConstants {
+
+    //no key, :(
+    //nvm we have key now
+    protected static final String WIKITUDE_SDK_KEY = "dVgcgvIKZ77IgH4ru8HfZcC+F+SxU5btxbbkSVdqzGoR8Pe5mcsMLrFiyQqFdjWY+p8p3j7p1BVaHBiW+FUY7kNiSMfbdWmZsEwRkzCtwD9ubT6Aq4RW1qg7OubZCuEFLk4l0oDkG+9gHuBuDRoqnifYvypfI/mP8sNmbJDUncFTYWx0ZWRfX4nTEep8wbFrecfIz9c9Mt152rNDIn584bi4aOZ9UX0piStXfBO6FpnL1T/qdKG83bNroph24GLzxSdTYSs6Y8vrgBAlcsu87szvUri/Pm0RRI+ghf0YzKvUF5H4P7pgQGbaObzg/CIzJE64oPND7cvhwBQGP+dw3mEqx75Qdkx5Ei9fRfCobNZGSL0/eaWhhHhHyIYMlZYeIkzgaKm6llMRQVn8BK8bt70YnSfOKEXeCsOiJs1LXeCC2hV58ekegdPH4SduYL63/Nnh0E6BDk00Fbbjqv9GE78S5MaWogo/uZUUU7ADS1kwdUYM1Qu7Kbxt6euUrOHUAuPjTAq6hrZGb6zHV9VyvZtcPkQqTE2JxBjZPelONLkHJschDeECHEWoZgoZFsmG2pYmZU1QZe2/Vd8xo7J92oa39HnfmuPHeuYU2wLiDvLy8y7skBX8FT8qa8l71k50Qt8pqHNRUmT9Ij7thXRfW2wd63zk/00lBDi0RgOL0nU=";
+
+}
