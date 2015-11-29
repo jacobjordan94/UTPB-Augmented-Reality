@@ -44,7 +44,7 @@ var project = {
     }]
 };
 
-alert(project.targets[0].augmentations[0].scale);
+// alert(project.targets[0].augmentations[0].scale);
 
 if (__SDK.checkVersion({
         minSDKVersion: {
