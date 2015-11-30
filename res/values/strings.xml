@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">UTPB AR</string>
 
-    <string name="title_section1">Augmentations</string>
+    <string name="title_section1">Information Scanner</string>
     <string name="title_section2">Building Locator</string>
     <string name="title_section3">Falcon Vision</string>
     <string name="title_section4">About</string>
